@@ -105,7 +105,7 @@
   "babel": {
     "presets": [
       "react",
-      "node5",
+      "es2015",
       "stage-0"
     ],
     "env": {
