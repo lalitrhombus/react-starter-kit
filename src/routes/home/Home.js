@@ -2,7 +2,7 @@
 
 import React, { PropTypes } from 'react';
 import withStyles from 'isomorphic-style-loader/lib/withStyles';
-import s from './Home.scss';
+import s from './Home.css';
 
 const title = 'Scorecard';
 

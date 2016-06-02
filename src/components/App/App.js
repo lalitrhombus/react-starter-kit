@@ -2,8 +2,10 @@
 
 import React, { Component, PropTypes } from 'react';
 import emptyFunction from 'fbjs/lib/emptyFunction';
-import s from './App.scss';
-import { Provider } from 'react-redux';
+import s from './App.css';
+import Header from '../Header';
+import Feedback from '../Feedback';
+import Footer from '../Footer';
 
 class App extends Component {
 
